@@ -1,6 +1,6 @@
 # Understanding Customer Effort Score
 
-**Overview**
+## **Overview**
 
 This is an anonymized interview that I had with the Head of a Global Customer Support team. He was labeled as an expert in Customer Effort Score \(CES\), so I reached out to him in [Support Driven](https://supportdriven.com/), a fast-growing Slack group where Support Professionals can connect with one another. I wanted to better understand CES, how to implement it, and generally find another connection in the support world.
 
@@ -10,17 +10,17 @@ In this interview we learn more about his decision to use CES, what CES is, and 
 
 ## Interview
 
-**Tell us about your team:**
+### **Tell us about your team:**
 
 > We’re a team of ~50 people, working 24/7, doing about ~10k tickets per month! We’re spread between \[California, South America, and Eastern Europe\]. Our team is extremely knowledgable about our product and the questions we receive are very in-depth. We support \[sic\] software, and answer all conceivable questions about how to use the product, best practices, etc. A typical customer response is 3–5 paragraphs, written free-form and customized for each inquiry. Our team really knows the product inside and out!\_
 >
 > _In order to keep this all running, we support our agents with 3 tier-1 support managers, a manager for tier-2, a documentation writer, and an extensive training team of 3 people. The training team onboards 2–5 people per month, and it takes 2–2.5 months to become fully proficient!_
 
-**What type of performance do you measure?**
+### **What type of performance do you measure?**
 
 > _We measure the typical things such as Time to First Response. We also have targets to answer all 90% of chats within 30 seconds and 90% of calls within 60 seconds. In the past we measured CSAT which we’ve replaced with Customer Effort Score \(CES\)._
 
-**What inspired you to implement CES?**
+### **What inspired you to implement CES?**
 
 > _Last year I read the book called_ [The Effortless Experience: Conquering the New Battleground for Customer Loyalty](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer-ebook/dp/B00C5R73I8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1466720895&sr=1-1) \([presentation](http://www.icmi.com/~/media/Files/Events/Course-Resources/EXPO2014/Matt%20Dixon-2014-ICMI-Keynote-rev.ashx)\)_, and chapter 6 completely changed how I thought about measuring the customer experience; It inspired me! It provides different ways to phrase questions and receive results for customer feedback. It’s very scientific yet easy to understand. The whole book is great!_
 >
@@ -32,13 +32,13 @@ In this interview we learn more about his decision to use CES, what CES is, and 
 
 > _The core element of CES is to understand a customers likelihood to repurchase, and we wanted a way to tie back a customer’s experience to sales which is our business’s lifeblood. This led us to start investigating how to implement CES._
 
-**Tell us what CES is?**
+### **Tell us what CES is?**
 
 > Customer Effort Score is a question that asks if “the company made it easy for me to handle my issue” and allows the customer to answer on a range from “strongly disagree” to “strongly agree”.
 
 ![](https://miro.medium.com/max/3388/1*koZ0vEUOyO5rPC46vqok6w.png)
 
-**What was the implementation process like?**
+### **What was the implementation process like?**
 
 > _Towards the end of 2015 we started to do research for 3rd party tools and found that no one really has an out of the box customer effort survey integrated with Zendesk Triggers. We chose to implement a customer email via Survey Gizmo._
 
@@ -54,7 +54,7 @@ In this interview we learn more about his decision to use CES, what CES is, and 
 
 ![](https://miro.medium.com/max/2392/1*bkcxkSFXq_z1l5RHCHkrEQ.png) _Example of how to capture comments in a custom-built tool_
 
-**How do you calculate CES?**
+### **How do you calculate CES?**
 
 > _When we capture a customer’s response we push the rating and comments into Zendesk via their API. We get a lot of comments and they’re added directly to the original ticket in the form of internal notes. We perform data analysis using GoodData. If a customer Agrees or Strongly Agrees, we consider it a positive interaction, everything else is a thumbs down._
 
@@ -66,13 +66,13 @@ They look at the percentage they receive in each category:
 >
 > _When a customer emails us, our agents are responsible for tagging a ticket for the main topic. It’s a mandatory field in order to solve a ticket. When we do analysis we tie CES to the ticket, agent\(s\), and product feature to identify where the holes are._
 
-**What insight has CES provided?**
+### **What insight has CES provided?**
 
 > _From an insights standpoint, we haven’t drawn out anything super insightful yet because we know \[the existing\] challenging items for the customers. The biggest difference from CSAT is that CES is a stronger signal, it’s so much more distinct. With CES the same topic will be overwhelmingly 50% positive vs 80% with CSAT._
 
 ![](https://miro.medium.com/max/2752/1*1Gh5vLdLRvbvLDPj33Zzug.png) _Sample CES Dashboard in GoodData_
 
-**Rapid fire, what else should we know about CES?**
+### **Rapid fire, what else should we know about CES?**
 
 > * We want to redo \[the email\] on a linear scale & not vertical.
 >   * Make sure your answer links are clickable in the email.
