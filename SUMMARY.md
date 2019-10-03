@@ -2,7 +2,7 @@
 
 * [Support Wiki](README.md)
 * [Blog](blog/README.md)
-  * [Customer-Feedback](blog/customer-feedback/README.md)
+  * [Customer Feedback](blog/customer-feedback/README.md)
     * [Understanding Customer Effort Score](blog/customer-feedback/understanding_customer_effort_score.md)
 * [CONTRIBUTING](contributing.md)
 * [LICENSE](license.md)
