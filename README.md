@@ -20,13 +20,10 @@ Similar to _High Growth Handbook_, Support Wiki provides executives \(CEO, CTO, 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/supportwiki/supportwiki1.0/blob/master/CONTRIBUTING.md) for details on how you can contribute your knowledge or questions to Support Wiki.
+Please read the [Contribution Guidelines](https://support-wiki.gitbook.io/supportwiki/contributing) for details on how you can contribute your knowledge or questions to Support Wiki.
 
-## Built With
 
-* [list tools we built this with](https://github.com/supportwiki/supportwiki2.0/tree/ddcd7b3e707199d3ae78501c30a71f9483912ed3/tools.com) - blurb
-
-## Authors
+## Creators
 
 * This project was created by [**Zach Bouzan-Kaloustian**](https://www.linkedin.com/in/zacharybk) with the help of the talented [**Karthik Rameshkumar**](https://t.co/bGARyz4FxU?amp=1)
 * See  the full list of [contributors](https://github.com/supportwiki/supportwiki1.0/graphs/contributors) who have added to this project.
@@ -39,7 +36,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Acknowledgments
 
-* [Daniel](https://twitter.com/Zaltsman) 
+* [Daniel](https://twitter.com/Zaltsman) who provided lots of encouragement
 * Elad Gill's Book: [_High Growth Handbook_](http://growth.eladgil.com/) for building a framework to follow
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com) for it's comittment to promoting open source projects
-
