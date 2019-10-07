@@ -24,7 +24,7 @@
 
 ## About Support Wiki
 
-* [Contributing](about-support-wiki/contributing/README.md)
-  * [Contributors](about-support-wiki/contributing/contributors.md)
+* [Contributing](about-support-wiki/contributing.md)
+* [Contributors](about-support-wiki/contributors.md)
 * [Open Source License](about-support-wiki/license.md)
 

@@ -74,24 +74,24 @@ You can copy the style below. We recommend adding your name with a headline, a l
 
 ## Adding Your Content
 
-### Using GitHub
+### Using GitHub or GitBook
 
 You can do a Pull Request directly from the [GitHub Repo \(link\)](https://github.com/supportwiki/supportwiki2.0) or choose to make an edit directly from Gitbook. 
 
-1. Send @zacharybk a request on GitHub to become a collaborator
-2. Become a contributor on GitBook using this link.
+1. Send @zacharybk a request on GitHub to become a collaborator on the [Support Wiki Github repo](https://github.com/supportwiki/supportwiki2.0)
+2. [Become a contributor on GitBook using this link.](https://app.gitbook.com/invite/support-wiki?invite=-LpYNNRmTbSzs0OQGgBn)
 
-### Using Markdown
+### Formatting Your Content
 
-You can post anythig To post in Support Wiki, the content should be formatted using Markdown. It can be intimidating at first, but once you get the hang of it you'll realize the power of the tool.
+Gitbook also provides a WYSIWYG, which means there's nothing to learn, and you can start contributing right away! 
 
-Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. \([source](https://en.wikipedia.org/wiki/Markdown)\)
+The easiest and fastest way to format your content for Support Wiki is using Markdown. Though it's a simple language to learn, it can be intimidating at first. Once you get the hang of it you'll realize the power of the tool.
+
+Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. 
 
 ### Guide to using Markdown -
 
-Once you you spend a few minutes using Markdown, you'll quickly recall the syntax and you can use any text program to type Markdown. If you're unfamiliar with the syntax, here's a [guide](https://www.markdownguide.org/basic-syntax) to become familiar with Markdown.
+Once you you spend a few minutes using Markdown, you'll quickly recall the syntax and you can use any text program to type Markdown. If you're unfamiliar with the syntax, [here's a guide to become familiar with Markdown.](https://www.markdownguide.org/basic-syntax)
 
-### Applications to Use
-
-When you're writing your post, you can choose whichever tool you would like. Here's a \[long list\]\([https://dev.to/awwsmm/state-of-markdown-editors-2019-2k49](https://dev.to/awwsmm/state-of-markdown-editors-2019-2k49)\) of editors that you can choose from. We recommend using a free version, and using a web-based tool such as [Stack Edit](https://stackedit.io/app) means you don't need to download anything.
+[A very easy way to learn Markdown is with the online editor called Stack Edit. It's a web-based tool which means there's nothing to download.](https://stackedit.io/) It has WYSIWYG controls, which makes it very easy to write content, format it, and see your changes instantly.
 
