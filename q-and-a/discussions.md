@@ -4,5 +4,5 @@ description: >-
   free to make additional contributions as there is often no single answer.
 ---
 
-# Discussions
+# Answered Questions
 

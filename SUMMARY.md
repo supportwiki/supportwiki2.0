@@ -10,12 +10,10 @@
 
 ## Q&A
 
-* [Overview](q-and-a/overview/README.md)
-  * [Asking Questions](q-and-a/overview/asking-questions.md)
-  * [Answering Questions](q-and-a/overview/answering-questions.md)
-  * [Ask a Question](q-and-a/overview/ask-a-question.md)
-* [Discussions](q-and-a/discussions.md)
-* [Open Questions](q-and-a/open-questions.md)
+* [Overview](q-and-a/overview.md)
+* [Ask a Question](q-and-a/open-questions/README.md)
+  * [Customer Feedback](q-and-a/open-questions/customer-feedback.md)
+* [Answered Questions](q-and-a/discussions.md)
 
 ## Articles
 

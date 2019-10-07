@@ -27,5 +27,3 @@ Similar to _High Growth Handbook_, Support Wiki provides executives \(CEO, CTO, 
 * This project was created by [**Zach Bouzan-Kaloustian**](https://www.linkedin.com/in/zacharybk) with the help of the talented [**Karthik Rameshkumar**](https://t.co/bGARyz4FxU?amp=1)
 * See  the full list of [contributors](https://support-wiki.gitbook.io/supportwiki/about-support-wiki/contributing/contributors) who have added to this project.
 
-## 
-
