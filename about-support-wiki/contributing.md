@@ -31,7 +31,7 @@ If you feel that your content is short-form, or your idea isn't fully fleshed ou
 
 ### Blog Format
 
-Copy this format to get started on your blog post \(link\).
+[Copy this format to get started on your blog post \(link\).](https://github.com/supportwiki/supportwiki2.0/blob/master/blog.md)
 
 ## Q&A
 

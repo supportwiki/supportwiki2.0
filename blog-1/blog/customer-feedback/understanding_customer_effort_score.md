@@ -1,5 +1,7 @@
 # Understanding Customer Effort Score
 
+_Author: Zach Bouzan-Kaloustian_ [_link to contributor bio_](https://www.linkedin.com/in/zacharybk)\_\_
+
 ## **Overview**
 
 This is an anonymized interview that I had with the Head of a Global Customer Support team. He was labeled as an expert in Customer Effort Score \(CES\), so I reached out to him in [Support Driven](https://supportdriven.com/), a fast-growing Slack group where Support Professionals can connect with one another. I wanted to better understand CES, how to implement it, and generally find another connection in the support world.
