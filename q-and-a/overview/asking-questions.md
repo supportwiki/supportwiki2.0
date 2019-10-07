@@ -9,7 +9,7 @@ If you're running into a new challenge, or just want to see how other Support Pr
 🙌 It's amazing that you've decided to further your knowledge. Here's a guideline for asking a great question on Support Wiki:
 
 * Add lots of details and context so you get a great answer
-* Respect anonimity \(when needed\) and the privacy of your company \(don't get fired\)
+* Respect anonymity \(when needed\) and the privacy of your company \(don't get fired\)
 * Try tweeting a link to your question to reach a wider audience, use the hashtag \#customerwiki
 * If you feel comfortable, add your bio to the question
 
