@@ -18,8 +18,9 @@
 ## Articles
 
 * [Articles Overview](articles/articles-overview.md)
-* [Customer Feedback](articles/customer-feedback/README.md)
-  * [Linking Customer Loyalty to Growth](articles/customer-feedback/linking-customer-loyalty-to-growth.md)
+* [Topics](articles/topics/README.md)
+  * [Customer Feedback](articles/topics/customer-feedback/README.md)
+    * [Linking Customer Loyalty to Growth](articles/topics/customer-feedback/linking-customer-loyalty-to-growth.md)
 
 ## About Support Wiki
 
