@@ -27,4 +27,3 @@
 
 * [Contributing](about-support-wiki/contributing.md)
 * [Open Source License](about-support-wiki/license.md)
-
