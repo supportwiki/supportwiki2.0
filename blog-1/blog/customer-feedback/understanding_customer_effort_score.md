@@ -1,6 +1,6 @@
 # Understanding Customer Effort Score
 
-_Author: Zach Bouzan-Kaloustian_ [_link to contributor bio_](https://www.linkedin.com/in/zacharybk)\_\_
+_Author: Zach Bouzan-Kaloustian_ [_\(bio_](https://www.linkedin.com/in/zacharybk)_\)_
 
 ## **Overview**
 
