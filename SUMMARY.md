@@ -21,6 +21,7 @@
 * [Topics](articles/topics/README.md)
   * [Customer Feedback](articles/topics/customer-feedback/README.md)
     * [Linking Customer Loyalty to Growth](articles/topics/customer-feedback/linking-customer-loyalty-to-growth.md)
+    * [How to Create an Effective Customer Journey Map \[Examples + Template\]](articles/topics/customer-feedback/how-to-create-an-effective-customer-journey-map-examples-+-template.md)
 
 ## About Support Wiki
 
